@@ -12,13 +12,8 @@ Bu proje, Unity kullanılarak geliştirilmiş bir kart tabanlı strateji oyunudu
 3. Gerekli paketleri indirin ve projeyi derleyin.
 
 ## Kullanım
-- Oyunu başlatmak için `GameManager` sahnesini açın ve oynat düğmesine basın.
+- Oyunu başlatmak için `Game` sahnesini açın ve oynat düğmesine basın.
 - Kartları seçerek rakibinizi yenmeye çalışın.
-
-## Katkı
-1. Bu projeye katkıda bulunmak için bir `fork` yapın.
-2. Değişikliklerinizi yapın.
-3. `Pull request` gönderin.
 
 ## Lisans
 Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
