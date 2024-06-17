@@ -1,0 +1,65 @@
+{
+    "Opponent": {
+        "checkpoints": [
+            {
+                "steps": 84998,
+                "file_path": "results\\3\\Opponent\\Opponent-84998.onnx",
+                "reward": 1.599483681012349,
+                "creation_time": 1717412820.9912903,
+                "auxillary_file_paths": [
+                    "results\\3\\Opponent\\Opponent-84998.pt"
+                ]
+            },
+            {
+                "steps": 89998,
+                "file_path": "results\\3\\Opponent\\Opponent-89998.onnx",
+                "reward": 1.6112574380506726,
+                "creation_time": 1717413226.5375836,
+                "auxillary_file_paths": [
+                    "results\\3\\Opponent\\Opponent-89998.pt"
+                ]
+            },
+            {
+                "steps": 94997,
+                "file_path": "results\\3\\Opponent\\Opponent-94997.onnx",
+                "reward": 1.6162250622699954,
+                "creation_time": 1717413631.8808022,
+                "auxillary_file_paths": [
+                    "results\\3\\Opponent\\Opponent-94997.pt"
+                ]
+            },
+            {
+                "steps": 99995,
+                "file_path": "results\\3\\Opponent\\Opponent-99995.onnx",
+                "reward": 1.6189149439847332,
+                "creation_time": 1717414024.3237944,
+                "auxillary_file_paths": [
+                    "results\\3\\Opponent\\Opponent-99995.pt"
+                ]
+            },
+            {
+                "steps": 100005,
+                "file_path": "results\\3\\Opponent\\Opponent-100005.onnx",
+                "reward": 1.6186074388468707,
+                "creation_time": 1717414024.9052887,
+                "auxillary_file_paths": [
+                    "results\\3\\Opponent\\Opponent-100005.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100005,
+            "file_path": "results\\3\\Opponent.onnx",
+            "reward": 1.6186074388468707,
+            "creation_time": 1717414024.9052887,
+            "auxillary_file_paths": [
+                "results\\3\\Opponent\\Opponent-100005.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cpu"
+    }
+}
